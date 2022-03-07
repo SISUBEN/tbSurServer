@@ -14,7 +14,7 @@ QAQ
 - 插件开发
 - - SISUBENY
 - 测试
-- - SISUBENY
+- - SISUBENY  
 欢迎加入！审核请找admin@sisubeny.xyz
 # 目前实现的功能  
 - 主城
