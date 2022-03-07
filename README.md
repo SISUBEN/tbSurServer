@@ -6,6 +6,15 @@ QAQ
 # 我们的开发团队  
 成员：  
 - SISUBENY   
+开发:
+- 前端开发
+- - SISUBENY
+- 后端开发
+- - SISUBENY
+- 插件开发
+- - SISUBENY
+- 测试
+- - SISUBENY
 欢迎加入！审核请找admin@sisubeny.xyz
 # 目前实现的功能  
 - 主城
